@@ -1,16 +1,3 @@
-/*const name = prompt("what is your name?")
-console.log(name);
-
-
-let jobTitle = prompt("what is your job title?")
-console.log(jobTitle)
-
-const question = confirm("are you sure?")
-console.log(question)
-
-alert("hello world")*/
-
-
 let num1 = 7;
 let num2 = 3;
 const name = "Eniitan";
@@ -28,3 +15,16 @@ console.log("Multiplication", multiplication);
 console.log("Division", division);
 
 console.log(`Hello ${name}, the result of num1 + num2 is ${addition}`);
+
+
+/*const name = prompt("what is your name?")
+console.log(name);
+
+
+let jobTitle = prompt("what is your job title?")
+console.log(jobTitle)
+
+const question = confirm("are you sure?")
+console.log(question)
+
+alert("hello world")*/
